@@ -1,4 +1,4 @@
-# MyReads - Udacity's React Fundamentals Course Project
+# Mobile FlashCards - Udacity NanoDegree Final Project
 
 This is final assignment of Udacity's React NanoDegree Course
 
